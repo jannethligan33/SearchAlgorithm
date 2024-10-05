@@ -1,0 +1,9 @@
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csprojAssemblyReference.cache
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+C:\Users\Janneth\OneDrive\DIT\Intelligent Systems\SearchAlgorithm\Backup\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
